@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav {width:80%;
+height:200px;
+background-color:#FFC3C4;
+margin:auto;
+	font-size:36px;
+	text-align:center;
+	font-family:"cabin-sketch";
+	font-style:normal;
+	font-weight:400} 
+
+
+nav {width:80%;
+	height:auto;
+	background-color:#BBEFEE;
+	margin:auto;}
+
+ul {list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden}
+
+li{float:left}
+
+li a {text-decoration:none;
+	color:#60A1F8---;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size:27px;
+	padding:10px 20px;
+	display:block}
+
+
+
+li a:hover {color:#FFC3C4;
+
+background-color:#FD585B}
+
+
+
+.caja1 {width:100%;
+	margin:auto;	
+	background-color:#FFC3C4;
+	height:600px;
+	overflow:hidden;
+padding-top:10px}
+
+
+.caja2 {width:50%;
+	height:597px;
+	margin:auto;
+	background-color:#FFC3C4;
+	float:left;
+	display:block;
+margin-left:1.2%;
+padding:9px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align:justify;
+	color:#060606;
+	font-size:18px}
+
+.caja3 {width:45%;
+	height:597px;
+	margin:auto;
+	background-color:#F86365;
+	float:right;
+	display:block;
+margin-left:1.2%;
+padding:7px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align:justify;
+	color:#060606;
+	font-size:18px} 
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
